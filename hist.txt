@@ -1,0 +1,3 @@
+apples:1.5
+bananas:4.50000001
+grapes:3
